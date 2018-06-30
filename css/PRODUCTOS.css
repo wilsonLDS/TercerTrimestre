@@ -1,0 +1,13 @@
+		body{background-image: url('../imagenes/11.jpg');
+	         background-attachment: fixed;}
+		#container{margin: 0 20% 10% 20%;}
+		#container4{ 
+		margin: 10% 10% 10% 10%;
+		border: 10px solid #FFFFFF;
+	    background-color: #2A00FF   ;
+	    width: 82%}
+	    #container1{ 
+		margin: 0% 10% 0% 10%;
+	    background-image: url('../imagenes/2imagenes.png'); ;
+	    width: 82%}
+	    #container1:hover{ background-image: url('../imagenes/1imagenes.jpg');}

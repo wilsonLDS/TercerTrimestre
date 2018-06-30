@@ -1,0 +1,21 @@
+<!DOCTYPE htlm>
+<html lang="es">
+<head> 
+  <!--this is of second form for use css-->
+      <title>INICIO</title>
+      <style type="text/css">
+      body{background-color: #000000; background-image: url(mario-luigi-figures-funny-163114 (11).jpeg);}
+      p{
+      color: #8DEFB6; 
+      font-family: letramolona;
+      src: url(letra1.ttf);}
+      h4{
+      color: #FFFFFF;
+    }
+    #margin{margin: 0px 800px -200px   100px  
+    }
+    #color1{color: #FBEEE6;}
+    #color2{
+      color: #FFFFFF;
+      font-family: font-family: cursive;
+    }

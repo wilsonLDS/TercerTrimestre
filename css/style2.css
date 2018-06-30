@@ -1,0 +1,32 @@
+body{
+	margin: auto;
+	padding:auto;
+	max-width: all;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+    text-align: center;
+    background-color: #FF0000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+	text-align: center;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}

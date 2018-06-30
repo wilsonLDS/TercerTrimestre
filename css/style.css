@@ -1,0 +1,169 @@
+		body{background-image: url('../imagenes/11.jpg');
+	         background-attachment: fixed;
+	     	padding: auto;
+	     	margin: auto;}
+
+		#container{margin: 0 20% 10% 20%;}
+		#container4{ 
+		margin: 10% 10% 10% 10%;
+		border: 10px solid #FFFFFF;
+	    background-color: #2A00FF   ;
+	    width: 82%}
+	    #container1{ 
+		margin: 0% 10% 0% 10%;
+	    background-image: url('../imagenes/2imagenes.png'); ;
+	    width: 82%}
+	    button{
+	   
+	    	background-color: #FF0000;
+	    	padding: 30px;
+	    	display: inline-block;
+	    	list-style: none;
+	    	border-radius: 5px;
+	    	border: none;
+	    	
+	    }
+	    button:hover{
+	    	background-color: #DEBABA;
+	    }
+	    #container1:hover{ background-image: url('../imagenes/1imagenes.jpg');}
+	    #container0{ 
+		margin: 10% 10% 10% 10%;
+	    background-image: url('../imagenes/15.jpg');
+	    width: 82%}
+	    #containerN{ 
+		margin: 10% 10% 10% 10%;
+	    background-image: url('../imagenes/v8Pnam0qiS.jpg');
+	    width: 82%}
+	    #container5{ 
+		margin: 10% 10% 10% 10%;
+	    border: 10px solid #FF0000;
+	    background-color: #00FF36;
+	    width: 72%}
+	    #container6{ 
+		margin: 10% 10% 10% 10%;
+	    border: 10px solid #0000FF;
+	    background-color: #FF0023;
+	    width: 72%}
+	    #container7{ 
+		margin: 10% 10% 10% 10%;
+	    border: 50px solid #00FF97;
+	    background-image: url('../imagenes/fondo1.jpeg');
+	    width: 72%;}
+	    #container7:hover{ background-image: url('../imagenes/fondo2.jpeg'); 
+	                       border: 50px solid #FF0000 ;}
+	    #container8{ 
+		margin: 10% 10% 10% 10%;
+	    border: 50px solid #0400FF  ;
+	    background-image: url('../imagenes/fondo.1.jpg');
+	    width: 72%;}
+	    #container8:hover{ background-image: url('../imagenes/mario.2.jpg'); 
+	                       border: 50px solid #FF0000 ;}
+	    #container9{ 
+		margin: 10% 10% 10% 10%;
+	    border: 50px solid #00FF97;
+	    background-image: url('../imagenes/super.jpg'); 
+	    width: 72%;}
+	    #container9:hover{ ; 
+	                       border: 50px solid #FFFFFF   ;}
+	    #container10{ 
+		margin: 10% 10% 10% 10%;
+	    border: 50px solid #00FF97; 
+	    background-color: #E000FF  ;
+	    width: 72%;}
+	    #container10:hover{ background-image: url('../imagenes/ee.png'); 
+	                       border: 50px solid #FFFFFF   ;}
+        label{font-weight: bold;}
+		#container2{margin: 0% 5% 0% 5%; }
+		#color1{color: #FFFFFF; font-size: 12px;} 
+		#color2{color: #FFFFFF;}
+		#color6{color: #FFFB00;}
+		#img{text-align: center;}
+		#text{text-align: center;}
+		#mar{
+		   margin: 10%; left: 100%;
+		}
+		#color9{ color: #000000;}
+		#rio{
+			 margin: 0 20% 10% 20%;
+		}
+		#submenu{margin: 0 0% 0% 42%;}
+		#letra{
+			font-family: AER;
+		}
+		#myimg{
+	            width: 223px;
+            	height: 226px;
+	            background-image: url('../imagenes/carrito.png');}
+	    #color11{color: #000FFF ;}
+        #myimg:hover{
+	            background-image: url('../imagenes/carrito rojo.png');}
+		#myimg1{
+	            width: 68px;
+            	height: 58px;
+	            background-image: url('../imagenes/flecha blanca.png');}
+        #myimg1:hover{
+	            background-image: url('../imagenes/flecha.png');}	    
+		#color1{color: #FFFFFF; font-size: 12px;} 
+		#color2{color: #FFFFFF;}
+		#color3{color: #FF0000;}
+		#color4{color: #00FF36;}
+		#color5{color: #FFFFFF;}
+		#img{text-align: center;}
+		#imgr{
+			width: 50px;	}
+		#gata{font-size: 12px;}
+		.menu{color: #FE642E;}
+		.myh2 {color: #fff;}
+		#marg1{
+			width: 400px;
+			height: 300px; 
+		}
+		#marg2{
+			width:1500px; 
+			height:405px;
+		}
+		#marg3{
+			width:800px;
+			height:430px;
+		}
+
+		.pieparrafo{background-color: #43FF3D; color: #3D4EFF;}
+		.pieparrafo1{ background-color: #F9E769; color: #2A00FF;}
+		.pieparrafo3{ background-color: #EC00FF ; color: #FBFF00 ;}
+		p{text-align: justify; font-size: 20px;}
+
+		
+		.divfoot1{
+			display: inline-block;
+			width: 18%;
+			height: 20px;
+			float: left;
+			margin: 10px;
+			background-color: #FF0000;
+			padding: 5px;}
+        .divfoot1 a{text-decoration: none; color: #2A00FF  ;}
+		.divfoot1:hover{background-color: #2A00FF; }
+        #color8{
+        	color: #00FF36;
+        }
+<!--start>
+        label{font-weight: bold;}
+        table {background: url(../imagenes/gameloft-compra.jpg); color: #000000; font-size: #00FF80; margin: 0 auto ;}
+        tr { background: #FFFFFF; }
+        td{ background: #2EFE64;}
+
+		#iframe-head{
+			width: 100%;
+			border: 0;
+			margin: 0;
+			height: 100px;
+			}
+		#iframe-foot{
+			width: 100%;
+			border: 0;
+			margin: 0;
+			height: 220px;
+		}
+		
+	
